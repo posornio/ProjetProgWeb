@@ -17,6 +17,9 @@ function player (pl){
 }
 
 function verif(num,pl){
+    for (i in gagnant){
+        if i.
+    }
 
 
    
